@@ -16,13 +16,6 @@ A powerful, enterprise-grade WhatsApp Business API chatbot platform built with m
 - **⚡ Real-time Updates** - Instant message delivery and status updates using WebSockets
 - **📋 Message History** - Complete conversation tracking and storage
 
-### 🎨 **Modern User Interface**
-- **🔥 WhatsApp-like Design** - Familiar and intuitive chat interface
-- **📱 Responsive Layout** - Perfect experience across desktop and mobile devices
-- **🔍 Smart Search** - Search conversations and messages instantly
-- **🗂️ Contact Management** - Organized contact list with conversation previews
-- **🎭 Interactive Elements** - Hover effects, message status indicators, and smooth animations
-
 ### ⚙️ **Advanced Management Features**
 - **🗑️ Message Management** - Delete individual messages or entire conversations
 - **📊 Conversation Analytics** - Track message history and engagement
@@ -30,11 +23,6 @@ A powerful, enterprise-grade WhatsApp Business API chatbot platform built with m
 - **📤 File Upload/Download** - Seamless media file handling
 - **🔄 Auto-sync** - Automatic synchronization with WhatsApp Business API
 
-### 🛡️ **Enterprise-Ready**
-- **🔐 Secure Architecture** - Built with Laravel's security best practices
-- **📈 Scalable Design** - Handle multiple concurrent conversations
-- **🔌 API-First Approach** - RESTful APIs for integration capabilities
-- **📱 Cross-platform Compatibility** - Works across all modern browsers
 
 ## 🏗️ Technology Stack
 
