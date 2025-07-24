@@ -215,10 +215,6 @@ WhatsApp-ChatApp/
 - **UpdateModel**: Message storage model
 
 
-## 🆘 Support
-
-- 📧 **Email**: montecristodev2025@gmail.com
-
 ## 🙏 Acknowledgments
 
 - [Laravel](https://laravel.com) - The PHP framework for web artisans
